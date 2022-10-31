@@ -1,0 +1,24 @@
+
+.name {
+    display: flex;
+    flex-direction: column;
+    width: 326px;
+    height: 125px;
+    gap: 5px;
+    margin: 10px 0;
+}
+
+.name input {
+    font-family: inherit;
+    padding: 4px;
+    outline: none; 
+}
+
+.name button {
+    font-family: inherit;
+    
+}
+
+.name p {
+    text-align: center;
+}
