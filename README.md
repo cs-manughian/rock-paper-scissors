@@ -1,5 +1,28 @@
 # rock-paper-scissors
-Two player rock-paper-scissors game
+Two player rock-paper-scissors game written in React TypeScript.
+
+The basic requirements for the game are:
+
+- Allow two players to enter their names
+- One of the players can also be the computer, i.e. player vs computer
+- Allow each to play a turn, one at a time, during which the player selects one of the option from rock, paper, scissors
+- During each turn notify who has won and increment the scores
+
+Notes on what I'd like to improve:
+
+- Use stages in the game design instead of a single stage
+- Submit button on first screen/stage
+- Integrate SCSS
+- More aesthetic images on buttons
+- Implement visual feedback on buttons
+- Save games via API
+- Removed unused font files
+- Better user celebration
+- Favor images over just text
+- Use colors
+- Track game details on the scoreboard such as the hand played
+- Responsiveness with scoreboard
+- Cross-browser testing
 
 # Getting Started with Create React App
 
