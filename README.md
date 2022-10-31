@@ -22,6 +22,7 @@ Notes on what I'd like to improve:
 - Use colors
 - Track game details on the scoreboard such as the hand played
 - Responsiveness with scoreboard
+- Front-end tests
 - Cross-browser testing
 
 # Running the Project
