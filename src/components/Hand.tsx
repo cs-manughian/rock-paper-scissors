@@ -1,11 +1,16 @@
 
-import { useState } from 'react';
 import './Hand.css';
 
 export enum Hands {
     Rock = 'rock',
     Paper = 'paper',
     Scissors = 'scissors'
+}
+
+export enum HandsNumeric {
+    rock,
+    paper,
+    scissors
 }
 
 type HandProps = {
