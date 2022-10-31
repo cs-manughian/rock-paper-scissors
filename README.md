@@ -17,7 +17,7 @@ Notes on what I'd like to improve:
 - Implement visual feedback on buttons
 - Save games via API
 - Removed unused font files
-- Better user celebration
+- Better user win celebration
 - Favor images over just text
 - Use colors
 - Track game details on the scoreboard such as the hand played
